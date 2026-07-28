@@ -14,7 +14,7 @@ Exchange rate volatility creates real risk for businesses, investors, and indivi
 | Linear Regression | Long-term historical relationship | 0.68 | Baseline — solid but insufficient for short-term volatility |
 | AR (Autoregressive) | Uses past values of the series | 0.6 | Too simple; loses reliability under high volatility |
 | ARIMA | Autoregression + differencing + moving average | 0.8 | Improvement, but blind to sharp downward reversals |
-| **ARIMAX** | ARIMA + exogenous variable (Bid Close) | **0.87** | 🏆 **Best performer** — captures both upward and downward trends |
+| **ARIMAX** | ARIMA + exogenous variable (Bid Close) | **0.87** | **Best performer** — captures both upward and downward trends |
 
 ## Key Finding
 
