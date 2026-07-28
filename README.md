@@ -24,7 +24,7 @@ Knowing the target variable's own history isn't enough to predict it reliably. I
 
 - [`Trade_Lens_Decoding_EUR_USD_with_AI.pdf.pptx.pdf`](./Trade_Lens_Decoding_EUR_USD_with_AI.pdf.pptx.pdf) — Full project presentation (problem framing, methodology, model-by-model analysis, results)
 - [`Analisis_Valor_Moneda_.ipynb`](./Analisis_Valor_Moneda_.ipynb) — Python/Google Colab notebook with data preprocessing, model implementation, and evaluation
-- [`Detailed Report.pdf`](./Detailed Report.pdf) — Project Writing Report
+- [`Detailed Report.pdf`](./Detailed_Report.pdf) — Project Writing Report
 
 ## Methods & Data
 
